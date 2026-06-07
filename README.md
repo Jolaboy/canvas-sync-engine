@@ -1,3 +1,4 @@
+---
 # Real-Time Collaborative Workspace Canvas (`canvas-sync-engine`)
 
 A low-latency, production-grade state synchronization matrix built using a hybrid Next.js execution engine. This system exposes custom lifecycle hooks that serialize and pipe user cursor vector arrays over a high-throughput WebSocket transport layer, achieving state reconciliation in under 15 milliseconds.
