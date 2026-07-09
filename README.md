@@ -32,8 +32,8 @@ graph TD
     E -->|Optimistic Vector Broadcast| A
     E -->|Optimistic Vector Broadcast| C
 
-    style B fill:#1e1e2f,stroke:#6366f1,stroke-width:2px
-    style E fill:#0f172a,stroke:#10b981,stroke-width:2px
+    style B fill:#1e1e2f,stroke:#6366f1,stroke-width:2px,color:#ffffff
+    style E fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#ffffff
 ```
 
 ## System Stack & Core Dependencies
